@@ -1,4 +1,5 @@
 This is my first file.
+Added a second line.
 Isn't it great!
 
 Yes! It's really amazing!
